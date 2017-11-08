@@ -57,4 +57,4 @@ alias note='start notepad'
 export PATH=$PATH:~/workspace/MinGW-64/mingw64/bin/
 
 export PATH=$PATH:~/workspace/7-Zip/
-export PATH=$PATH:~/workspace/cmder/bin/alias note='start notepad'
+export PATH=$PATH:~/workspace/cmder/bin/
