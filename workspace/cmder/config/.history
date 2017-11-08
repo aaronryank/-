@@ -1,0 +1,63 @@
+xz
+cp Downloads\nano-2.8.7.tar.xz .
+rm nano-2.8.7.tar.xz 
+mkdir nano
+mv nano-2.8.7.tar.xz nano
+cd nano
+tar -xzvf nano-2.8.7.tar.xz 
+tar
+tar --help
+tar -cJf nano-2.8.7.tar.xz 
+tar -xf nano-2.8.7.tar.xz 
+mkdir xz
+mv xz-5.2.3.tar.gz 
+mv xz-5.2.3.tar.gz xz
+tar -xzvf xz-5.2.3.tar.gz 
+rm xz-5.2.3.tar.gz 
+configure
+.\configure
+. configure
+./configure
+gcc
+cd MinGW-64\
+cd mingw64\
+cd bin
+notepad ~
+notepad C:\Users\kid_coders\.bashrc 
+cd .
+cd ..
+cd Downloads\
+cd xz
+cd xz-5.2.3\
+bash configure
+bash gcc
+cd ..\..
+rm -r xz
+rm -r nano
+cd nano-1.0.8\
+nano
+lds
+ls
+git
+bash
+exit
+nano
+lds
+git
+nt
+ls
+bash
+exit
+ls
+bash
+exit
+clear
+bash
+exit
+exit
+C:
+cd ..
+cd Windows
+cd system32
+cd config
+ls
