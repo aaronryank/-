@@ -1,0 +1,40 @@
+.TH "fish_key_reader" 1 "Thu Aug 25 2016" "Version 2.3.1" "fish" \" -*- nroff -*-
+.ad l
+.nh
+.SH NAME
+\fBfish_key_reader\fP -- explore what characters keyboard keys send 
+
+.PP
+.SS "Synopsis"
+.PP
+.nf
+
+\fBfish_key_reader\fP [-c] [-d LEVEL]
+.fi
+.PP
+.SS "Description"
+\fCfish_key_reader\fP is used to study input received from the terminal and can help with key binds\&. The program is interactive and works on standard input\&. Individual characters themselves and their hexadecimal values are displayed\&.
+.PP
+The tool will output an example \fCbind\fP command matching the character sequence captured\&. If the character sequence matches a special key name (see \fCbind --key-names\fP), both \fCbind CHARS \&.\&.\&.\fP and \fCbind -k KEYNAME \&.\&.\&.\fP usage will be shown\&.
+.PP
+The following parameters are available:
+.PP
+.IP "\(bu" 2
+\fC-c\fP or \fC--continuous\fP begins a session where multiple key sequences can be inspected\&. By default the program exits after capturing a single key sequence\&.
+.IP "\(bu" 2
+\fC-d\fP or \fC--debug-level=DEBUG_LEVEL\fP enables debug output and specifies a verbosity level (like \fCfish -d\fP)\&. Defaults to 0\&.
+.PP
+.PP
+In continuous mode (\fC-c\fP), the delay in milliseconds since the previous character was received is also shown\&. This information may be useful to determine a preferred \fCfish_escape_delay_ms\fP setting or learn the amount of lag introduced by \fCssh\fP or \fCtmux\fP\&.
+.PP
+\fCfish_key_reader\fP intentionally disables handling of many signals\&. To terminate \fCfish_key_reader\fP in a \fC--continuous\fP run:
+.IP "\(bu" 2
+press \fCCtrl-C\fP twice, or
+.IP "\(bu" 2
+press \fCCtrl-D\fP twice, or
+.IP "\(bu" 2
+type \fCexit\fP, or
+.IP "\(bu" 2
+type \fCquit\fP 
+.PP
+

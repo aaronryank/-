@@ -1,0 +1,42 @@
+%NAME%
+fish
+
+%VERSION%
+2.3.1-1
+
+%DESC%
+a smart and user-friendly command line shell
+
+%URL%
+https://fishshell.com/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1472110421
+
+%INSTALLDATE%
+1510203914
+
+%PACKAGER%
+Alexey Pavlov <alexpux@gmail.com>
+
+%SIZE%
+7240704
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gcc-libs
+ncurses
+gettext
+libiconv
+
+%OPTDEPENDS%
+python: for manual page completion parser and web configuration tool
+

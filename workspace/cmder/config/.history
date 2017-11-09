@@ -61,3 +61,21 @@ cd Windows
 cd system32
 cd config
 ls
+bash
+exit
+C:
+cd Windows
+cd system32
+cd config
+clear
+cd workspace\
+rm tempfile
+cd ..
+ls
+bash
+bash
+cd ..
+bash
+bash
+ls
+exit

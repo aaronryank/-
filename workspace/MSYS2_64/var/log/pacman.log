@@ -1,0 +1,136 @@
+[2016-10-25 11:31] [PACMAN] Running 'pacman -Syu --root /tmp/newmsys/msys64'
+[2016-10-25 11:31] [PACMAN] synchronizing package lists
+[2016-10-25 11:31] [PACMAN] starting core system upgrade
+[2016-10-25 11:31] [PACMAN] starting full system upgrade
+[2016-10-25 11:31] [PACMAN] Running 'pacman -S --noconfirm --root /tmp/newmsys/msys64 base'
+[2016-10-25 11:32] [ALPM] transaction started
+[2016-10-25 11:32] [ALPM] installed msys2-runtime (2.6.0-1)
+[2016-10-25 11:32] [ALPM] installed bash (4.3.046-1)
+[2016-10-25 11:32] [ALPM] installed bash-completion (2.3-1)
+[2016-10-25 11:32] [ALPM] installed gcc-libs (5.3.0-3)
+[2016-10-25 11:32] [ALPM] installed libbz2 (1.0.6-2)
+[2016-10-25 11:32] [ALPM] installed libiconv (1.14-2)
+[2016-10-25 11:32] [ALPM] installed libintl (0.19.7-3)
+[2016-10-25 11:32] [ALPM] installed libgettextpo (0.19.7-3)
+[2016-10-25 11:32] [ALPM] installed libasprintf (0.19.7-3)
+[2016-10-25 11:32] [ALPM] installed gettext (0.19.7-3)
+[2016-10-25 11:32] [ALPM] installed liblzma (5.2.2-1)
+[2016-10-25 11:32] [ALPM] installed liblzo2 (2.09-1)
+[2016-10-25 11:32] [ALPM] installed gmp (6.1.0-2)
+[2016-10-25 11:32] [ALPM] installed libnettle (3.3-1)
+[2016-10-25 11:32] [ALPM] installed coreutils (8.25-1)
+[2016-10-25 11:32] [ALPM] installed ncurses (6.0.20161001-1)
+[2016-10-25 11:32] [ALPM] installed libreadline (6.3.008-7)
+[2016-10-25 11:32] [ALPM] installed zlib (1.2.8-3)
+[2016-10-25 11:32] [ALPM] installed libxml2 (2.9.2-2)
+[2016-10-25 11:32] [ALPM] installed bsdcpio (3.2.1-1)
+[2016-10-25 11:32] [ALPM] installed bsdtar (3.2.1-1)
+[2016-10-25 11:32] [ALPM] installed bzip2 (1.0.6-2)
+[2016-10-25 11:32] [ALPM] installed libcatgets (1.1-2)
+[2016-10-25 11:32] [ALPM] installed catgets (1.1-2)
+[2016-10-25 11:32] [ALPM] installed libcrypt (1.3-1)
+[2016-10-25 11:32] [ALPM] installed crypt (1.3-1)
+[2016-10-25 11:32] [ALPM] installed libopenssl (1.0.2.j-1)
+[2016-10-25 11:32] [ALPM] installed openssl (1.0.2.j-1)
+[2016-10-25 11:32] [ALPM] installed findutils (4.6.0-1)
+[2016-10-25 11:32] [ALPM] installed sed (4.2.2-2)
+[2016-10-25 11:32] [ALPM] installed libffi (3.2.1-1)
+[2016-10-25 11:32] [ALPM] installed libpcre (8.38-1)
+[2016-10-25 11:32] [ALPM] installed less (481-1)
+[2016-10-25 11:32] [ALPM] installed gzip (1.8-1)
+[2016-10-25 11:32] [ALPM] installed info (6.1-1)
+[2016-10-25 11:32] [ALPM] installed libtasn1 (4.9-1)
+[2016-10-25 11:32] [ALPM] installed libp11-kit (0.23.2-1)
+[2016-10-25 11:32] [ALPM] installed p11-kit (0.23.2-1)
+[2016-10-25 11:32] [ALPM] installed ca-certificates (20150426-1)
+[2016-10-25 11:32] [ALPM] installed libdb (5.3.28-2)
+[2016-10-25 11:32] [ALPM] installed libedit (3.1-20150325)
+[2016-10-25 11:32] [ALPM] installed icu (56.1-1)
+[2016-10-25 11:32] [ALPM] installed libsqlite (3.10.0.0-1)
+[2016-10-25 11:32] [ALPM] installed heimdal-libs (1.5.3-9)
+[2016-10-25 11:32] [ALPM] installed libidn (1.33-1)
+[2016-10-25 11:32] [ALPM] installed libexpat (2.2.0-1)
+[2016-10-25 11:32] [ALPM] installed libmetalink (0.1.2-2)
+[2016-10-25 11:32] [ALPM] installed libssh2 (1.7.0-1)
+[2016-10-25 11:32] [ALPM] installed libcurl (7.50.3-1)
+[2016-10-25 11:32] [ALPM] installed curl (7.50.3-1)
+[2016-10-25 11:32] [ALPM] installed filesystem (2016.07-2)
+[2016-10-25 11:32] [ALPM] installed grep (2.26-1)
+[2016-10-25 11:32] [ALPM] installed dash (0.5.9.1-1)
+[2016-10-25 11:32] [ALPM] installed file (5.28-2)
+[2016-10-25 11:32] [ALPM] installed m4 (1.4.17-4)
+[2016-10-25 11:32] [ALPM] installed flex (2.6.1-1)
+[2016-10-25 11:32] [ALPM] installed mpfr (3.1.4-1)
+[2016-10-25 11:32] [ALPM] installed gawk (4.1.4-1)
+[2016-10-25 11:32] [ALPM] installed tftp-hpa (5.2-1)
+[2016-10-25 11:32] [ALPM] installed inetutils (1.9.2-1)
+[2016-10-25 11:32] [ALPM] installed lndir (1.0.3-1)
+[2016-10-25 11:32] [ALPM] installed mintty (1~2.6.2-1)
+[2016-10-25 11:32] [ALPM] installed msys2-keyring (r9.397a52e-1)
+[2016-10-25 11:32] [ALPM] installed msys2-launcher-git (0.3.32.56c2ba7-2)
+[2016-10-25 11:32] [ALPM] installed gnupg (1.4.20-1)
+[2016-10-25 11:32] [ALPM-SCRIPTLET] rm: ошибка получения атрибутов '/': No such file or directory
+[2016-10-25 11:32] [ALPM-SCRIPTLET] /tmp/alpm_gpOcJc/.INSTALL: line 11: pacman-key: команда не найдена
+[2016-10-25 11:32] [ALPM-SCRIPTLET] /tmp/alpm_gpOcJc/.INSTALL: line 12: pacman-key: команда не найдена
+[2016-10-25 11:32] [ALPM] installed pacman-mirrors (20160112-1)
+[2016-10-25 11:32] [ALPM] installed which (2.21-2)
+[2016-10-25 11:32] [ALPM] installed xz (5.2.2-1)
+[2016-10-25 11:32] [ALPM] installed pacman (5.0.1-1)
+[2016-10-25 11:32] [ALPM] installed libarchive (3.2.1-1)
+[2016-10-25 11:32] [ALPM] installed libpcre16 (8.38-1)
+[2016-10-25 11:32] [ALPM] installed libpcre32 (8.38-1)
+[2016-10-25 11:32] [ALPM] installed libpcrecpp (8.38-1)
+[2016-10-25 11:32] [ALPM] installed libpcreposix (8.38-1)
+[2016-10-25 11:32] [ALPM] installed pcre (8.38-1)
+[2016-10-25 11:32] [ALPM] installed pkgfile (15-1)
+[2016-10-25 11:32] [ALPM-SCRIPTLET] ==> Run 'pkgfile --update' to initialize the database
+[2016-10-25 11:32] [ALPM] installed libgpg-error (1.23-1)
+[2016-10-25 11:32] [ALPM] installed libassuan (2.4.2-1)
+[2016-10-25 11:32] [ALPM] installed libgpgme (1.6.0-1)
+[2016-10-25 11:32] [ALPM] installed libutil-linux (2.26.2-1)
+[2016-10-25 11:32] [ALPM] installed wget (1.18-1)
+[2016-10-25 11:32] [ALPM] installed pactoys-git (r2.07ca37f-1)
+[2016-10-25 11:32] [ALPM] installed pax-git (20140703.2.1.g469552a-1)
+[2016-10-25 11:32] [ALPM] installed rebase (4.4.2-1)
+[2016-10-25 11:32] [ALPM] installed time (1.7-1)
+[2016-10-25 11:32] [ALPM] installed ttyrec (1.0.8-1)
+[2016-10-25 11:32] [ALPM] installed tzcode (2015.e-1)
+[2016-10-25 11:32] [ALPM] installed util-linux (2.26.2-1)
+[2016-10-25 11:32] [ALPM] transaction completed
+[2017-11-08 14:41] [PACMAN] Running '/usr/bin/pacman -S fish'
+[2017-11-08 14:41] [ALPM] transaction started
+[2017-11-08 14:42] [ALPM] installed fish (2.3.1-1)
+[2017-11-08 14:42] [ALPM] transaction completed
+[2017-11-08 15:06] [PACMAN] Running '/usr/bin/pacman -S oh-my-fish'
+[2017-11-08 15:06] [PACMAN] Running '/usr/bin/pacman -S omf'
+[2017-11-08 20:29] [PACMAN] Running '/usr/bin/pacman -Rs fish'
+[2017-11-08 20:29] [ALPM] transaction started
+[2017-11-08 20:29] [ALPM-SCRIPTLET] /usr/bin/sed: -e expression #1, char 1: unknown command: `C'
+[2017-11-08 20:29] [ALPM] removed fish (2.3.1-1)
+[2017-11-08 20:29] [ALPM] transaction completed
+[2017-11-08 20:29] [PACMAN] Running '/usr/bin/pacman -S fish'
+[2017-11-08 20:29] [ALPM] transaction started
+[2017-11-08 20:29] [ALPM] installed fish (2.3.1-1)
+[2017-11-08 20:29] [ALPM] transaction completed
+[2017-11-08 20:46] [PACMAN] Running '/usr/bin/pacman --remove fish'
+[2017-11-08 20:46] [ALPM] transaction started
+[2017-11-08 20:46] [ALPM-SCRIPTLET] /usr/bin/sed: -e expression #1, char 1: unknown command: `C'
+[2017-11-08 20:46] [ALPM] removed fish (2.3.1-1)
+[2017-11-08 20:46] [ALPM] transaction completed
+[2017-11-08 20:50] [PACMAN] Running '/usr/bin/pacman -S fish'
+[2017-11-08 20:50] [ALPM] transaction started
+[2017-11-08 20:50] [ALPM] installed fish (2.3.1-1)
+[2017-11-08 20:50] [ALPM] transaction completed
+[2017-11-08 20:51] [PACMAN] Running '/usr/bin/pacman -S python'
+[2017-11-08 20:51] [ALPM] transaction started
+[2017-11-08 20:52] [ALPM] installed python (3.4.3-3)
+[2017-11-08 20:52] [ALPM] transaction completed
+[2017-11-08 21:04] [PACMAN] Running '/usr/bin/pacman -R fish'
+[2017-11-08 21:04] [ALPM] transaction started
+[2017-11-08 21:04] [ALPM-SCRIPTLET] /usr/bin/sed: -e expression #1, char 1: unknown command: `C'
+[2017-11-08 21:04] [ALPM] removed fish (2.3.1-1)
+[2017-11-08 21:04] [ALPM] transaction completed
+[2017-11-08 21:04] [PACMAN] Running '/usr/bin/pacman -S fish'
+[2017-11-08 21:05] [ALPM] transaction started
+[2017-11-08 21:05] [ALPM] installed fish (2.3.1-1)
+[2017-11-08 21:05] [ALPM] transaction completed

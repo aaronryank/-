@@ -1,0 +1,14 @@
+#
+# /etc/shells
+#
+
+/usr/bin/sh
+/usr/bin/bash
+
+# End of file
+/usr/bin/ash
+/usr/bin/dash
+/usr/bin/fish
+/usr/bin/fish
+/usr/bin/fish
+/usr/bin/fish
